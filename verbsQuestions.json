@@ -1,0 +1,50 @@
+[
+	{
+		"id": 0,
+		"verb": "to be",
+		"radioText": [
+			"Was",
+			"Where",
+			"Was/Were"
+		],
+		"correct": "was/were",
+		"name": "question1",
+		"defaultValue": [
+			"f",
+			"f",
+			"was/were"
+		]
+	},
+	{
+		"id": 1,
+		"verb": "to take",
+		"radioText": [
+			"Taked",
+			"Took",
+			"Taken"
+		],
+		"correct": "took",
+		"name": "question2",
+		"defaultValue": [
+			"f",
+			"took",
+			"f"
+		]
+	},
+	{
+		"id": 2,
+		"verb": "to go",
+		"radioText": [
+			"Went",
+			"Goed",
+			"Gone"
+		],
+		"correct": "went",
+		"name": "question3",
+		"defaultValue": [
+			"went",
+			"f",
+			"f"
+		]
+	}
+]
