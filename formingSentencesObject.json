@@ -1,0 +1,26 @@
+[
+	{
+		"id": 0,
+		"f": "She likes going to church but she prefers to be at home with her boyfriend",
+		"b": [
+			"but she prefers",
+			"She likes",
+			"with her",
+			"going to church",
+			"to be at home",
+			"boyfriend"
+		]
+	},
+	{
+		"id": 1,
+		"f": "He doesn't want to help his father anymore because he can't study as much as he needs",
+		"b": [
+			"as much as",
+			"he needs",
+			"his father anymore",
+			"he doesn't want to",
+			"help",
+			"because he can't study"
+		]
+	}
+]
